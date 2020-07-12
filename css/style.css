@@ -1,0 +1,64 @@
+/*
+x Fond = #2e5849
+x Fond Input = #1c382f
+x Bordure Input = #183129
+x Ombre interne Input = 25px rgba(0,0,0,.1)
+x Ombre interne Input Focus = 25px rgba(0,0,0,.5)
+x Texte Input = #fff
+x Placeholder Input = rgba(255, 255, 255, .5)
+x Fond Tâche = #eee
+x Bordure tâche = #ccc
+*/
+
+body {
+  margin-top: 2rem;
+  background: #1f0344;
+  display: flex;
+  justify-content: center;
+}
+
+.todo {
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.input {
+  width: 100%;
+  margin: 2rem 0 5rem 0;
+  background-color: #240229;
+  color: rgb(242, 6, 250);
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgb(242, 6, 250);
+  height: 150px;
+  font-size: 1.5rem;
+  padding: 1rem;
+}
+
+.counter {
+  color: rgb(242, 6, 250);
+  border-bottom: solid 1px rgb(242, 6, 250);
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.task {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 1em;
+  color: #240229;
+  background-color: rgb(242, 6, 250);
+  height: 80px;
+  border-radius: 5px;
+  font-size: 1.5em;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+
+.checkbox {
+  font-size: 1em;
+  margin-right: 1rem;
+}
