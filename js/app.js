@@ -174,7 +174,7 @@ const app = {
       // modifier le DOM : non !
       // app.generateTask(inputValue);
 
-      // on met à jour les données : on crée une tâche, on l'ajoute au tableau
+      // on met à jour les données : on crée une tâche (object), on l'ajoute au tableau
       const newTask = {
         // id dynamique : taille du tableau + 1
         // ça fonctionne ici, mais ne pas utiliser ça si on peut supprimer des tâches
@@ -183,7 +183,7 @@ const app = {
         done: false,
       };
       app.tasks.push(newTask);
-      // console.log(app.tasks);
+      console.log(app.tasks);
       
       // puis on reconstruit l'interface en partant de zéro
       app.drawUI();
@@ -199,7 +199,7 @@ const app = {
 
   handleChange: function(event) {
     console.log('change!', event.target.checked);
-    console.log(event.target.dataset.identifier);
+    console.log('dataset :', event.target.dataset.identifier);
 
     // pour pouvoir comparer, on transforme en nombre
     const identifier = Number(event.target.dataset.identifier);
