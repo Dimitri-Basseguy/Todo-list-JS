@@ -18,7 +18,7 @@ body {
 }
 
 .todo {
-  width: 500px;
+  width: 80%;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -49,8 +49,6 @@ body {
   flex-direction: row;
   align-items: center;
   padding: 1em;
-  color: #240229;
-  background-color: rgb(242, 6, 250);
   height: 80px;
   border-radius: 5px;
   font-size: 1.5em;
@@ -62,3 +60,15 @@ body {
   font-size: 1em;
   margin-right: 1rem;
 }
+
+.task--done {
+  background-color: #350672;
+  text-decoration: line-through;
+  color: rgba(247, 0, 255, 0.39);
+}
+
+.task--notDone {
+  color: #240229;
+  background-color: rgb(242, 6, 250);
+}
+
