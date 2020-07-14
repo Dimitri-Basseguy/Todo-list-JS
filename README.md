@@ -9,7 +9,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![screen-shot todolist](https://raw.githubusercontent.com/Dimitri-Basseguy/Todo-list-React/master/todo-list-dimitri-basseguy-screen.png)
+![screen-shot-todolist](https://github.com/Dimitri-Basseguy/Todo-list-React/blob/master/docs/todo-list-dimitri-basseguy-screen.png)
 
 Simple todo-list with Javascript vanilla. For training in declarative programming
 
