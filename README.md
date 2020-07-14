@@ -6,18 +6,10 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-
-[![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url]
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `github_repo`, `twitter_handle`, `email`
-
-Then you can delete these lines !
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/Dimitri-Basseguy/Todo-list-React/blob/master/todo-list-dimitri-basseguy-screen.png?)
 
 Here you can describe the project, why you made it and **for who you made it**, but mostly don't forget to add a screenshot like the image above AND a link to the demo like this : https://NicolasBrondin.github.io/basic-readme-template/
 
@@ -65,7 +57,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/Kulexus) - email
+Basseguy Dimitri - [@twitter.com/Kulexus](https://twitter.com/Kulexus) - dimitri.basseguy@gmail.com
 
 Project Link: [https://github.com/Dimitri-Basseguy/Todo-list-React](https://github.com/Dimitri-Basseguy/Todo-list-React)
 
@@ -74,7 +66,7 @@ Project Link: [https://github.com/Dimitri-Basseguy/Todo-list-React](https://gith
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* This readme version is a simplified version of this [github repository](https://github.com/othneildrew/Best-README-Template) by Othneildrew
+* Stay safe.
 
 
 
