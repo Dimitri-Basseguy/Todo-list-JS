@@ -9,13 +9,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/Dimitri-Basseguy/Todo-list-React/blob/master/todo-list-dimitri-basseguy-screen.png?)
+[![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/Dimitri-Basseguy/Todo-list-React/master/todo-list-dimitri-basseguy-screen.png)
 
 Here you can describe the project, why you made it and **for who you made it**, but mostly don't forget to add a screenshot like the image above AND a link to the demo like this : https://NicolasBrondin.github.io/basic-readme-template/
 
 ### Built With
 
-* 🖊️ Markdown
+* :blush: Javascript
 * 🐙 Github
 * 💻 VS Code
 
